@@ -1,0 +1,7 @@
+Java setup and project structure|2.0|Configured folders and packages
+Classes and methods|2.5|Built reusable methods
+Loops and conditionals|2.0|Implemented summary logic
+Collections (ArrayList)|2.5|Tracked session data in a list
+Formatting console output|1.5|Printed readable report tables
+Refactoring and comments|2.0|Improved naming and documentation
+README and submission prep|2.0|Prepared required artifacts
